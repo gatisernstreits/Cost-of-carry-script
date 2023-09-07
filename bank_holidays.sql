@@ -21,3 +21,5 @@ VALUES ('2022-01-01', 'Y'),
         ('2022-12-26', 'Y');
 
 SELECT * FROM swe_bank_holidays;
+
+--some additional comment to check upload
